@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\Fivem Console Manager.exe
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\Fivem Console Manager.pdb
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem Console Manager.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem_Console_Manager.Form1.resources
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem_Console_Manager.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem Console Manager.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem Console Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem Console Manager.exe
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem Console Manager.pdb
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\7za.dll
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\7za.exe
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\7zxa.dll
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\7z.NET.dll
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\7z.NET.pdb
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\bin\Debug\7z.NET.xml
+C:\Users\Administrator\source\repos\Fivem Console Manager\Fivem Console Manager\obj\Debug\Fivem Console Manager.csproj.CopyComplete
