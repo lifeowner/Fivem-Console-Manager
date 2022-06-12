@@ -7,7 +7,7 @@ An application to manage your Fivem Server easier!
 <br />
 <br />
 
-<a href="#" target="_blank"><p align="center"> ![image](https://user-images.githubusercontent.com/1441150/173236244-22577920-227d-4da2-a64d-74b445044769.png)
+<a href="https://github.com/lifeowner/Fivem-Console-Manager/releases/download/0.1/Fivem.Manager.zip" target="_blank"><p align="center"> ![image](https://user-images.githubusercontent.com/1441150/173236244-22577920-227d-4da2-a64d-74b445044769.png)
  </p></a>
 
 <br />
